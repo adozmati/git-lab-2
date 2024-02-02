@@ -1,8 +1,8 @@
 # git-lab-2
 /*
  *        File: git-lab-program.cc
- *      Author: <Alex Dozmati>
- *        Date: <Jan. 26 2024>
+ *      Author: Alex Dozmati
+ *        Date: Jan. 26 2024
  * Description: This program outputs Hello Git!
  */
 
