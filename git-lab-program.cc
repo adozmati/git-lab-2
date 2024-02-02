@@ -3,7 +3,7 @@
  *        File: git-lab-program.cc
  *      Author: <Alex Dozmati>
  *        Date: <Jan. 26 2024>
- * Description: Add Description
+ * Description: This program outputs Hello Git!
  */
 
 #include <iostream>
@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
-    /*add code*/
+    cout << "Hello Git!" << endl;
     return 0;
 }// main
-cout << "Hello Git!" << endl;
+
